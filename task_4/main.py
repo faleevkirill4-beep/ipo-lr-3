@@ -17,4 +17,4 @@ elif D < 0 :
 elif D == 0 :
  print("Уравнение имеет 1 корень: ") 
  x1 = (-b + math.sqrt(D)) / 2*a
- 
+ print(x1)
